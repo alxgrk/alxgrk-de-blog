@@ -1,16 +1,46 @@
 # The URL the site will be built for
 base_url = "https://blog.alxgrk.de"
 
+title = "this is alxgrk"
+description = "Tech and stuff"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
+theme = "nivis"
+
+generate_feeds = true
+feed_filenames = ["rss.xml", "atom.xml"]
+
+taxonomies = [{ name = "tags", paginate_by = 5 }]
+
 [markdown]
+render_emoji = true
+github_alerts = true
+bottom_footnotes = true
 
 [markdown.highlighting]
-theme = "catppuccin-mocha"
+style = "class"
+light_theme = "one-light"
+dark_theme = "one-dark-pro"
 
 [extra]
-# Put all your custom variables here
+main_section = "posts"
+avatar = "images/avatar.jpeg" # In static/ folder
+math_display = "mathjax"
+
+# Social links
+social_links = [
+    { name = "github", url = "https://github.com/alxgrk" },
+    { name = "bluesky", url = "https://bsky.app/profile/alxgrk.eurosky.social" },
+]
+
+[extra.sections]
+posts = true
+about = true
+archive = false
+tags = false
+links = true
