@@ -1,8 +1,8 @@
 # The URL the site will be built for
 base_url = "https://blog.alxgrk.de"
 
-title = "this is alxgrk"
-description = "Tech and stuff"
+title = "alxgrk"
+description = "blog on tech"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -35,12 +35,13 @@ math_display = "mathjax"
 # Social links
 social_links = [
     { name = "github", url = "https://github.com/alxgrk" },
-    { name = "bluesky", url = "https://bsky.app/profile/alxgrk.eurosky.social" },
+    { name = "linkedin", url = "https://www.linkedin.com/in/alexander-girke-7809b4123/" },
+    { name = "bluesky", url = "https://bsky.app/profile/alxgrk.de" },
 ]
 
 [extra.sections]
 posts = true
 about = true
-archive = false
+bio = true
 tags = false
-links = true
+skills = true

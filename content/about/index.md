@@ -3,10 +3,12 @@ title = "About Me"
 template = "about.html"
 +++
 
-{{ image(src="images/screenshot.png", alt="screenshot", caption="Screenshot of posts page") }}
+_Software Engineer from Leipzig._
 
-{{ image(src="images/screenshot_home.png", alt="screenshot_home", caption="Screenshot of homepage") }}
+From writing **high-quality code** to reaching **operational excellence**, from designing **cloud infrastructure** to **architecting software systems** - I love building **sustainable** software.
 
-This is Nivis, a clean zola theme for bloggers.
+**Clean** execution, **effective** communication, and **focus** on what actually matters lays the groundwork for that.
 
-This theme is inspired by (and derived from) themes [Float](https://float-theme.netlify.app/) and [anatole](https://longfangsong.github.io/). Check out these two wonderful themes as well! :smile:
+Asking the right **questions** is essential, **curiosity** drives my daily work.
+
+Technology is highly **political**; it’s a bunch of tools that shape how we **live, work, and connect**.

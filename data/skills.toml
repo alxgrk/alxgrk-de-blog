@@ -1,0 +1,56 @@
+
+[[groups]]
+name = "Backend"
+items = [
+    { name = "Node.js", url = "https://nodejs.org/", description = "JavaScript runtime built on V8", avatar = "https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" },
+    { name = "Spring", url = "https://spring.io/", description = "Application framework for Java", avatar = "https://cdn.worldvectorlogo.com/logos/spring-3.svg" },
+    { name = "Ktor", url = "https://ktor.io/", description = "Framework for building asynchronous servers and clients in Kotlin", avatar = "https://ktor.io/favicon-32x32.png?v=8b9600238530568922ec9a5ed0a4ae06" },
+    { name = "MongoDB", url = "https://www.mongodb.com/", description = "Document-oriented database program", avatar = "https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" },
+    { name = "Apache Druid", url = "https://druid.apache.org/", description = "High performance real-time analytics database", avatar = "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apache-druid.png" },
+    { name = "PostgreSQL", url = "https://www.postgresql.org/", description = "Object-relational database system", avatar = "https://www.postgresql.org/media/img/about/press/elephant.png" },
+    { name = "Redis", url = "https://redis.io/", description = "In-memory database, cache, and message broker", avatar = "https://cdn.worldvectorlogo.com/logos/redis.svg" },
+    { name = "Amazon Kinesis", url = "https://aws.amazon.com/kinesis/", description = "Platform for real-time data streaming and processing", avatar = "https://w7.pngwing.com/pngs/752/777/png-transparent-aws-kinesis-hd-logo.png" },
+    { name = "Elasticsearch", url = "https://www.elastic.co/elasticsearch", description = "Distributed search and analytics engine", avatar = "https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" },
+]
+
+[[groups]]
+name = "Frontend"
+items = [
+    { name = "React", url = "https://react.dev/", description = "A JavaScript library for building user interfaces", avatar = "https://cdn.worldvectorlogo.com/logos/react-2.svg" },
+    { name = "Angular", url = "https://angular.io/", description = "Platform for building mobile and desktop web applications", avatar = "https://miro.medium.com/v2/resize:fit:1358/0*n_d-c2gAOtW6NvOp.png" },
+    { name = "Android", url = "https://developer.android.com/", description = "Mobile platform", avatar = "https://1000logos.net/wp-content/uploads/2016/10/Android-Logo-2019.png" },
+    { name = "Kotlin Multiplatform", url = "https://kotlinlang.org/multiplatform/", description = "Reuse code across Android, iOS, web, and desktop", avatar = "https://miro.medium.com/v2/resize:fit:1358/1*w0N9MHgWeUpAc4w8q7mmbg.png" },
+    { name = "Cordova", url = "https://cordova.apache.org/", description = "Platform for building native mobile applications", avatar = "https://cdn.worldvectorlogo.com/logos/cordova.svg" },
+]
+
+
+[[groups]]
+name = "Cloud"
+items = [
+    { name = "AWS", url = "https://aws.amazon.com/", description = "Cloud computing platform", avatar = "https://cdn.worldvectorlogo.com/logos/aws-2.svg" },
+    { name = "Terraform", url = "https://www.terraform.io/", description = "Infrastructure as code tool for the cloud", avatar = "https://img.icons8.com/fluency/452/terraform.png" },
+    { name = "Pulumi", url = "https://www.pulumi.com/", description = "Infrastructure as code using general-purpose programming languages", avatar = "https://images.seeklogo.com/logo-png/49/2/pulumi-icon-logo-png_seeklogo-497962.png" },
+    { name = "Kubernetes", url = "https://kubernetes.io/", description = "Deployment, scaling, and management of containerized applications", avatar = "https://cdn2.iconfinder.com/data/icons/mixd/512/16_kubernetes-512.png" },
+    { name = "Azure", url = "https://azure.microsoft.com/", description = "Cloud computing platform", avatar = "https://freepnglogo.com/images/all_img/microsoft-azure-8359.png" },
+]
+
+[[groups]]
+name = "Languages"
+items = [
+    { name = "Kotlin", url = "https://kotlinlang.org/", description = "Statically typed programming language", avatar = "https://images.seeklogo.com/logo-png/32/1/kotlin-logo-png_seeklogo-323430.png" },
+    { name = "JavaScript/TypeScript", url = "https://www.typescriptlang.org/", description = "JavaScript superset with static typing", avatar = "https://cdn.worldvectorlogo.com/logos/typescript.svg" },
+    { name = "Java", url = "https://www.java.com/", description = "General-purpose programming language", avatar = "https://cdn.worldvectorlogo.com/logos/java.svg" },
+    { name = "Rust", url = "https://www.rust-lang.org/", description = "Systems programming language", avatar = "https://cdn.worldvectorlogo.com/logos/rust.svg" },
+    { name = "Bash", url = "https://www.gnu.org/software/bash/", description = "Unix shell and command-line interpreter", avatar = "https://cdn.worldvectorlogo.com/logos/bash-1.svg" },
+]
+
+[[groups]]
+name = "Methodologies and Other Professional Competencies"
+items = [
+    { name = "Domain-Driven Design (DDD)", url = "https://martinfowler.com/bliki/DomainDrivenDesign.html", description = "Focus on the problem domain and align software systems", avatar = "https://martinfowler.com/bliki/images/domain-driven-design/evans-book.jpg" },
+    { name = "Ports and Adapters", url = "httpshttps://alistair.cockburn.us/hexagonal-architecture", description = "Interfaces for external systems, isolating the core", avatar = "https://miro.medium.com/v2/resize:fit:1358/format:webp/1*3y2px_gV7AhDzMt4oLa7zw.png" },
+    { name = "Team Topologies", url = "https://martinfowler.com/bliki/TeamTopologies.html", description = "Organizational design and team interaction patterns", avatar = "https://martinfowler.com/bliki/images/team-topologies/book.jpg" },
+    { name = "Wardley Mapping", url = "https://learnwardleymapping.com/", description = "Strategic technique for understanding business landscapes", avatar = "https://i0.wp.com/learnwardleymapping.com/wp-content/uploads/2023/03/cropped-logo.png?w=512&ssl=1" },
+    { name = "Scrum", url = "https://www.scrum.org/", description = "Agile framework for managing software development processes", avatar = "https://www.scrum.org/themes/custom/scrumorg_v2/favicon.ico" },
+    { name = "Test-Driven Development (TDD)", url = "https://martinfowler.com/bliki/TestDrivenDevelopment.html", description = "Tests first", avatar = "https://miro.medium.com/v2/resize:fit:1358/1*fyZ-bgKXNuqH3Kechjue1w.png" },
+]

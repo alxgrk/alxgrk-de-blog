@@ -1,4 +1,4 @@
 [submodule "themes/nivis"]
 	path = themes/nivis
-	url = https://github.com/Resorie/zola-theme-nivis.git
-	branch = master
+	url = https://github.com/alxgrk/zola-theme-nivis.git
+	branch = temporary-changes-for-my-blog

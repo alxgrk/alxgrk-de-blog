@@ -1,0 +1,2 @@
+[build]
+watch = ["zola.toml", "content", "templates", "static", "sass", "data", "themes"]
