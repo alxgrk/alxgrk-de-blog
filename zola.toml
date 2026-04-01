@@ -30,7 +30,7 @@ dark_theme = "one-dark-pro"
 [extra]
 main_section = "posts"
 avatar = "images/avatar.jpeg" # In static/ folder
-math_display = "mathjax"
+math_display = "none"
 
 # Social links
 social_links = [
