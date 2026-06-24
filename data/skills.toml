@@ -47,6 +47,7 @@ items = [
 [[groups]]
 name = "Methodologies and Other Professional Competencies"
 items = [
+    { name = "AI Engineering", url = "https://www.aihero.dev/", description = "Real software engineering boosted by AI", avatar = "https://www.aihero.dev/favicon.svg" },
     { name = "Domain-Driven Design (DDD)", url = "https://martinfowler.com/bliki/DomainDrivenDesign.html", description = "Focus on the problem domain and align software systems", avatar = "https://martinfowler.com/bliki/images/domain-driven-design/evans-book.jpg" },
     { name = "Ports and Adapters", url = "httpshttps://alistair.cockburn.us/hexagonal-architecture", description = "Interfaces for external systems, isolating the core", avatar = "https://miro.medium.com/v2/resize:fit:1358/format:webp/1*3y2px_gV7AhDzMt4oLa7zw.png" },
     { name = "Team Topologies", url = "https://martinfowler.com/bliki/TeamTopologies.html", description = "Organizational design and team interaction patterns", avatar = "https://martinfowler.com/bliki/images/team-topologies/book.jpg" },
