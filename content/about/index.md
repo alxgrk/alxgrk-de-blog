@@ -11,4 +11,4 @@ From writing **high-quality code** to reaching **operational excellence**, from 
 
 Asking the right **questions** is essential, **curiosity** drives my daily work.
 
-Technology is highly **political**; it’s a bunch of tools that shape how we **live, work, and connect**.
+Technology is highly **political**; it’s those essential tools that shape how we **live, work, and connect**.
